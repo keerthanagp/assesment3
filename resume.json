@@ -1,0 +1,34 @@
+{
+    "basics": {
+      "name": "Keerthana P",
+      "label": "FSD",
+      "email": "keerthanaperumal1515@gmail.com",
+      "phone": "91+ 7305357552",
+      "location": {
+        "address": "13th west cross street",
+        "postalCode": "600041",
+        "city": "Chennai",
+        "countryCode": "TN",
+        "region": "Thiruvanmiyur"
+      },
+
+      "profiles": [{
+        "network": "Github",
+        "username": "keerthana",
+        "url": "https://github.com/keerthanagp"
+      }]
+    },
+    "skills": [{
+      "name": "Web Development",
+      "level": "Middle",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+        "React",
+        "Node",
+        "SQL"
+      ]
+    }]
+  }
